@@ -1,0 +1,119 @@
+        body{
+         background-color: black;
+        }
+        .image{
+        position: relative;
+        top: 1px;
+        background-image: url('https://images.pexels.com/photos/403495/pexels-photo-403495.jpeg?auto=compress&cs=tinysrgb&w=600');
+        background-size: cover; 
+        background-position: center; 
+        width: 100%;
+        height: 80vh;
+        border-radius: 30px;
+        align-items: center;
+        justify-content: center;
+        text-align:center;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white;
+        font-size: larger;
+        } 
+        .nav a{
+        position: relative;
+        top: 20px;
+        color:white;
+        margin: 5px;
+        padding: 5px;
+        text-decoration: none;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+        a:hover{
+        background-color: blue;
+            }
+        #FollowUs{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 12px; 
+        color: whitesmoke;
+             }
+        .symbols{
+        float: right;
+        display: flex;
+        top:0;
+        margin-top:0px;
+        padding: 0px;
+        gap: 10px;
+            }
+        #icon{
+        font-size: 30px;
+        color:white;
+        }
+        #Underline{
+      text-decoration: underline;
+        }
+        form{
+        position: relative;
+        left: 35rem;
+        padding: 10px;
+        background-color: aliceblue;
+        width: 22%;
+        height: 30vh;
+        border-radius: 10px;
+         }
+        input{
+        padding: 5px;
+        width: 80%;
+        margin: 5px;
+        }
+        button{
+        background-color: navy;
+        color: white;
+        padding: 10px;
+        border-radius: 10px;
+        border: none;
+        }
+        button:hover{
+        background-color: orangered;  
+        }
+        #forbg{
+        text-align: center;
+        color: black;
+        }
+        .Services{
+        width:100%;
+        height:100vh;
+        background-color: black;
+        }
+        #Services{
+        text-align: center;
+        color: white;
+        text-decoration: underline;
+        }
+        .card{
+        margin-left: 250px;
+        margin-right: 250px;
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        }
+        #imgs{
+        width: 25rem;
+        height: 40vh;
+        border-radius: 20px;
+        border: 2px solid white;
+        }
+        h5{
+        color: white;
+        }
+        .end{
+        position: relative;
+        top: 50px;
+        color:white;
+        text-align: center;
+        }
+        footer{
+        color: black;
+        background-color: white;
+        width: 99.5%;
+        text-align: center;
+        margin-top:60px ;
+        padding: 5px;
+         }
